@@ -87,7 +87,7 @@ section:nth-of-type(2){/*pseudo-classe CSS selecionam itens de um grupo de eleme
     background-image: url("img/flores.jpg");/*imagem de fundo*/
 }
 section:nth-of-type(4){
-    background-image: url("cidade.jpg");
+    background-image: url("img/trigo.jpeg");
 }
 section:nth-of-type(6){
     background-image: url("oportunidade.jpg");
