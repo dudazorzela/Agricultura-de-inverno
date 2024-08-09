@@ -50,7 +50,7 @@
 }
 
 .secundario__imagem {
-    width: 100%;
+    width: 100px;
     height: 50px;
     padding: 0 24px;
     transition: .4s all ease-in-out;
@@ -84,7 +84,7 @@ h1{
 }
 
 section:nth-of-type(2){/*pseudo-classe CSS selecionam itens de um grupo de elementos HTML*/
-    background-image: url("campo.jpg");/*imagem de fundo*/
+    background-image: url("flores.jpg");/*imagem de fundo*/
 }
 section:nth-of-type(4){
     background-image: url("cidade.jpg");
